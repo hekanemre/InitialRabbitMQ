@@ -1,0 +1,1 @@
+﻿//At first we need a library (nuget pack.) that communicate with RabbitMQ --> RabbitMQ.Client
